@@ -19,4 +19,11 @@
   opacity: 0.5;
   filter: alpha(opacity=50); }
 
+.footer {
+  background-color: #2B2E37;
+  color: #fff; }
+
+h1 {
+  color: #ffffff; }
+
 /*# sourceMappingURL=main.css.map */
