@@ -25,3 +25,8 @@ $sub-color: #fff;
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
+
+.footer {
+  background-color: $primary-color;
+  color: $sub-color;
+}
