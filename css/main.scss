@@ -1,0 +1,27 @@
+$primary-color: #2B2E37;
+$secondary-color: #d7df21;
+$sub-color: #fff;
+
+.navbar {
+  background-color: $primary-color !important;
+  p {
+    color: $secondary-color;
+    padding: 10px 15px 0 5px;
+    font-size: 17px;
+    font-weight: 400;
+  }
+}
+
+#scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 5px;
+  z-index: 9999;
+  background-color: #393F4D;
+  color: #FFF;
+  text-decoration: none;
+  padding: 10px;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
